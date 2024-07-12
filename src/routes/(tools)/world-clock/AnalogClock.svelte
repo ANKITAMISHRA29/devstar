@@ -1,6 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import { timeZoneList } from './locale.js';
+    import { object_without_properties } from 'svelte/internal';
 
   export let city = '';
   export let country = '';
@@ -99,7 +100,7 @@
       text-align: center;
   }
   canvas {
-      background: white;
+      background: black;
       border-radius: 50%;
       border: 5px solid #000;
       padding: 5px;
