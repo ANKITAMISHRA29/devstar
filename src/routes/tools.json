@@ -1,42 +1,4 @@
 {
-    "Gradient-generator": {
-        "name": "Gradient Generator",
-        "link": "/Gradient-generator",
-        "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
-        "contributors": [
-            {
-                "name": "Yash Mankar",
-                "githubId": "AraeneaCLI"
-            }
-        ]
-    },
-    "Text-Statistics": {
-        "name": "Text Statistics",
-        "link": "/Text-Statistics",
-        "description": "The Text Statistics tool is designed to provide comprehensive analysis and insights into a given text. It helps users understand various attributes of their text by calculating and displaying the Total No. of Word count in the Text, The total number of characters in the text, The total number of sentences in the text, The total number of paragraphs in the text, The average length of words in the text, An estimate of the time it would take to read the text, The number of unique words used in the text, A table displaying the count of words based on their length (number of letters). This helps in analyzing the distribution of word lengths within the text.",
-        "contributors": [
-            {
-                "name": "Sujit Sambhaji Lendave",
-                "githubId": "Sujit747"
-            },
-            {
-                "name": "Shubham Karne",
-                "githubId": "shubhamkarne11"
-            },
-            {
-                "name": "Gyan Prakash",
-                "githubId": "gyanp28"
-            },
-            {
-                "name": "Sudhanshu Marudgan",
-                "githubId": "Sudhanshu-Marudgan"
-            },
-            {
-                "name": "Anoushka Ramankulat",
-                "githubId": "Anoushka-Ramankulath"
-            }
-        ]
-    },
     "add-prefix-suffix": {
         "name": "Add Prefix and Suffix",
         "link": "/add-prefix-suffix",
@@ -155,6 +117,17 @@
             }
         ]
     },
+    "Gradient-generator": {
+        "name": "Gradient Generator",
+        "link": "/Gradient-generator",
+        "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
+        "contributors": [
+            {
+                "name": "Yash Mankar",
+                "githubId": "AraeneaCLI"
+            }
+        ]
+    },
     "image-base64-decode": {
         "name": "Image Base64 Decode",
         "link": "/image-base64-decode",
@@ -225,10 +198,33 @@
             }
         ]
     },
+    "math-toolkit": {
+        "name": "Math Toolkit",
+        "link": "/math-toolkit",
+        "description": "Number system converter which convert numbers into any other number system like binary,hexadecimal,etc.",
+        "contributors": [
+            {
+                "name": "Prachi Kumathekar",
+                "githubId": "02skysane"
+            },
+            {
+                "name": "Anupama Patewad",
+                "githubId": "Anupama-Patewad"
+            },
+            {
+                "name": "Jayesh Jaroli",
+                "githubId": "JayeshJaroli4917"
+            },
+            {
+                "name": "Shivanshu Kumar",
+                "githubId": "shivoham79"
+            }
+        ]
+    },
     "Multi-timer": {
         "name": "Multi Timer (With Alarm)",
         "link": "/Multi-timer",
-        "description": "Build different times like: Count Up, Count Down, Reminder",
+        "description": "This app lets you set and save multiple timers with reminders or use a stopwatch to track time. Switch between timer and stopwatch modes, start, stop, reset, and delete timers, and record laps on the stopwatch. Get notified with a message and sound when a timer ends.",
         "contributors": [
             {
                 "name": "Ishaan Bhela",
@@ -293,6 +289,33 @@
             }
         ]
     },
+    "Random word everyday": {
+        "name": "",
+        "link": "/Random word everyday",
+        "description": "",
+        "contributors": [
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            }
+        ]
+    },
     "random-data-generator": {
         "name": "Random Data Generator",
         "link": "/random-data-generator",
@@ -342,6 +365,64 @@
             {
                 "name": "Hannan Satopay",
                 "githubId": "hannansatopay"
+            }
+        ]
+    },
+    "SV-Placeholder-Generator": {
+        "name": "SVG Placeholder Generator",
+        "link": "/SV-Placeholder-Generator",
+        "description": "Generate svg images to use as a placeholder in your applications",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "IQRA MIYAJI",
+                "githubId": "IqraMiyaji"
+            },
+            {
+                "name": "AAKANKSH MISHRA",
+                "githubId": "Aaka22"
+            },
+            {
+                "name": "HARSHALA PATIL",
+                "githubId": "Harshala15"
+            },
+            {
+                "name": "ANUJA PATIL",
+                "githubId": "anujaappasopatil"
+            }
+        ]
+    },
+    "Text-Statistics": {
+        "name": "Text Statistics",
+        "link": "/Text-Statistics",
+        "description": "The Text Statistics tool is designed to provide comprehensive analysis and insights into a given text. It helps users understand various attributes of their text by calculating and displaying the Total No. of Word count in the Text, The total number of characters in the text, The total number of sentences in the text, The total number of paragraphs in the text, The average length of words in the text, An estimate of the time it would take to read the text, The number of unique words used in the text, A table displaying the count of words based on their length (number of letters). This helps in analyzing the distribution of word lengths within the text.",
+        "contributors": [
+            {
+                "name": "Sujit Sambhaji Lendave",
+                "githubId": "Sujit747"
+            },
+            {
+                "name": "Shubham Karne",
+                "githubId": "shubhamkarne11"
+            },
+            {
+                "name": "Gyan Prakash",
+                "githubId": "gyanp28"
+            },
+            {
+                "name": "Sudhanshu Marudgan",
+                "githubId": "Sudhanshu-Marudgan"
+            },
+            {
+                "name": "Anoushka Ramankulat",
+                "githubId": "Anoushka-Ramankulath"
             }
         ]
     },

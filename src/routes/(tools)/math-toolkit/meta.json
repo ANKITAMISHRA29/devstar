@@ -1,23 +1,19 @@
 {
-    "name": "",
-    "description":"",
+    "name": "Math Toolkit",
+    "description":"Number system converter which convert numbers into any other number system like binary,hexadecimal,etc.",
     "contributors": [{
-        "name": "",
-        "githubId": ""
+        "name": "Prachi Kumathekar",
+        "githubId": "02skysane"
     }, {
-        "name": "",
-        "githubId": ""
+        "name": "Anupama Patewad",
+        "githubId": "Anupama-Patewad"
     },
     {
-        "name": "",
-        "githubId": ""
+        "name": "Jayesh Jaroli",
+        "githubId": "JayeshJaroli4917"
     },
     {
-        "name": "",
-        "githubId": ""
-    },
-    {
-        "name": "",
-        "githubId": ""
+        "name": "Shivanshu Kumar",
+        "githubId": "shivoham79"
     }]
 }
