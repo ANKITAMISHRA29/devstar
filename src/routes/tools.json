@@ -1,4 +1,103 @@
 {
+
+
+    "Gradient-generator": {
+        "name": "Gradient Generator",
+        "link": "/Gradient-generator",
+        "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
+        "contributors": [
+            {
+                "name": "Yash Mankar",
+                "githubId": "AraeneaCLI"
+            }
+        ]
+    },
+    "Multi-timer": {
+        "name": "Multi Timer (With Alarm)",
+        "link": "/Multi-timer",
+        "description": "This app lets you set and save multiple timers with reminders or use a stopwatch to track time. Switch between timer and stopwatch modes, start, stop, reset, and delete timers, and record laps on the stopwatch. Get notified with a message and sound when a timer ends.",
+        "contributors": [
+            {
+                "name": "Ishaan Bhela",
+                "githubId": "Ishaan453"
+            },
+            {
+                "name": "Chirag Dave",
+                "githubId": "chirag132002"
+            },
+            {
+                "name": "Saksham Porwal",
+                "githubId": "Sam9733"
+            },
+            {
+                "name": "Jay Trivedi",
+                "githubId": "Jayu1214"
+            },
+            {
+                "name": "Sameehan Joshi",
+                "githubId": "Sameehan25"
+            }
+        ]
+    },
+    "SV-Placeholder-Generator": {
+        "name": "SVG Placeholder Generator",
+        "link": "/SV-Placeholder-Generator",
+        "description": "Generate svg images to use as a placeholder in your applications",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "IQRA MIYAJI",
+                "githubId": "IqraMiyaji"
+            },
+            {
+                "name": "AAKANKSH MISHRA",
+                "githubId": "Aaka22"
+            },
+            {
+                "name": "HARSHALA PATIL",
+                "githubId": "Harshala15"
+            },
+            {
+                "name": "ANUJA PATIL",
+                "githubId": "anujaappasopatil"
+            }
+        ]
+    },
+    "Text-Statistics": {
+        "name": "Text Statistics",
+        "link": "/Text-Statistics",
+        "description": "The Text Statistics tool is designed to provide comprehensive analysis and insights into a given text. It helps users understand various attributes of their text by calculating and displaying the Total No. of Word count in the Text, The total number of characters in the text, The total number of sentences in the text, The total number of paragraphs in the text, The average length of words in the text, An estimate of the time it would take to read the text, The number of unique words used in the text, A table displaying the count of words based on their length (number of letters). This helps in analyzing the distribution of word lengths within the text.",
+        "contributors": [
+            {
+                "name": "Sujit Sambhaji Lendave",
+                "githubId": "Sujit747"
+            },
+            {
+                "name": "Shubham Karne",
+                "githubId": "shubhamkarne11"
+            },
+            {
+                "name": "Gyan Prakash",
+                "githubId": "gyanp28"
+            },
+            {
+                "name": "Sudhanshu Marudgan",
+                "githubId": "Sudhanshu-Marudgan"
+            },
+            {
+                "name": "Anoushka Ramankulat",
+                "githubId": "Anoushka-Ramankulath"
+            }
+        ]
+    },
+
     "add-prefix-suffix": {
         "name": "Add Prefix and Suffix",
         "link": "/add-prefix-suffix",
@@ -198,6 +297,7 @@
             }
         ]
     },
+
     "math-toolkit": {
         "name": "Math Toolkit",
         "link": "/math-toolkit",
@@ -248,6 +348,8 @@
             }
         ]
     },
+
+
     "neumorphism-generator": {
         "name": "Neumorphism Generator",
         "link": "/neumorphism-generator",
@@ -342,6 +444,41 @@
             }
         ]
     },
+    "random-word-everyday": {
+        "name": "Random Word Everyday",
+        "link": "/random-word-everyday",
+        "description": "Welcome to Random Word Everyday, your go-to destination for discovering a new word each day and much more. This website offers a chance to expand your vocabulary daily.",
+        "contributors": [
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "Jayant Goyal",
+                "githubId": "jayantgoyal1502"
+            },
+            {
+                "name": "M Desing Raj",
+                "githubId": "Desing1joker"
+            },
+            {
+                "name": "TANVI SONTAKKE",
+                "githubId": "TanV-04"
+            },
+            {
+                "name": "SURABHI SATAM",
+                "githubId": "SurabhiSatam"
+            },
+            {
+                "name": "HIMANI KORGAONKAR",
+                "githubId": "Himani9922"
+            },
+            {
+                "name": "Urvi Joshi",
+                "githubId": "UrviJoshi24"
+            }
+        ]
+    },
     "robots-txt-generator": {
         "name": "Robots.txt Generator",
         "link": "/robots-txt-generator",
@@ -368,6 +505,7 @@
             }
         ]
     },
+
     "SV-Placeholder-Generator": {
         "name": "SVG Placeholder Generator",
         "link": "/SV-Placeholder-Generator",
@@ -378,10 +516,19 @@
                 "githubId": ""
             },
             {
+
+    "encryptor-decryptor": {
+        "name": "Text Encryption Decryption Tool",
+        "link": "/encryptor-decryptor",
+        "description": "A Text Encryption Decryption Tool lets you scramble plain text into a coded message and then unscramble it back. These tools are useful for protecting sensitive information you share online.",
+        "contributors": [
+            {
+
                 "name": "ANKITA MISHRA",
                 "githubId": "ANKITAMISHRA29"
             },
             {
+
                 "name": "IQRA MIYAJI",
                 "githubId": "IqraMiyaji"
             },
@@ -423,6 +570,38 @@
             {
                 "name": "Anoushka Ramankulat",
                 "githubId": "Anoushka-Ramankulath"
+
+                "name": "Sakshi",
+                "githubId": "Sakshee-24"
+            },
+            {
+                "name": "Navjeet",
+                "githubId": "navjeet-lohan"
+            },
+            {
+                "name": "Swapnil",
+                "githubId": "swapniljoshi123"
+            },
+            {
+                "name": "Ravish",
+                "githubId": "RavishRanjancodes"
+            },
+            {
+                "name": "Kaneez",
+                "githubId": "Kaneezfatima19"
+            },
+            {
+                "name": "Riya",
+                "githubId": "riyasawant193"
+            },
+            {
+                "name": "Ram",
+                "githubId": "ryuk27"
+            },
+            {
+                "name": "Aman",
+                "githubId": "Amvic7"
+
             }
         ]
     },
@@ -440,6 +619,61 @@
             {
                 "name": "Hannan Satopay",
                 "githubId": "hannansatopay"
+            }
+        ]
+    },
+    "youtube-thumbnail-grabber": {
+        "name": "Youtube Thumbnail Grabber",
+        "link": "/youtube-thumbnail-grabber",
+        "description": "The YouTube Thumbnail Grabber is a tool for fetching and downloading thumbnails from YouTube videos based on user-specified resolutions.",
+        "contributors": [
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "SIDDHARTH MONDAL",
+                "githubId": "Siddharth-coder-droid"
+            },
+            {
+                "name": "VARSHINI",
+                "githubId": "varshini-coder"
+            },
+            {
+                "name": "ANURAJ VENKATPURWAR",
+                "githubId": "Anuraj4"
+            },
+            {
+                "name": "VEDANT MAYEKAR",
+                "githubId": "VedantM21"
+             }
+        ]
+    },
+=======
+    "world-clock": {
+        "name": "World Clock",
+        "link": "/world-clock",
+        "description": "Times of World: showcases time of different countries",
+        "contributors": [
+            {
+                "name": "ILyas Sayyed",
+                "githubId": "MrPorsche"
+            },
+            {
+                "name": "K Vaishnavi",
+                "githubId": "Vaishnnavikothmirkar"
+            },
+            {
+                "name": "Joel Geo Abraham",
+                "githubId": "JoelAbraham16032002"
+            },
+            {
+                "name": "Silla Mariya Roy",
+                "githubId": "Silla03"
+            },
+            {
+                "name": "Kaberi manjari Prusty",
+                "githubId": "coder-kbb"
             }
         ]
     }
