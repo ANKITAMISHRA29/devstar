@@ -1,4 +1,6 @@
 {
+
+
     "Gradient-generator": {
         "name": "Gradient Generator",
         "link": "/Gradient-generator",
@@ -95,6 +97,7 @@
             }
         ]
     },
+
     "add-prefix-suffix": {
         "name": "Add Prefix and Suffix",
         "link": "/add-prefix-suffix",
@@ -294,6 +297,59 @@
             }
         ]
     },
+
+    "math-toolkit": {
+        "name": "Math Toolkit",
+        "link": "/math-toolkit",
+        "description": "Number system converter which convert numbers into any other number system like binary,hexadecimal,etc.",
+        "contributors": [
+            {
+                "name": "Prachi Kumathekar",
+                "githubId": "02skysane"
+            },
+            {
+                "name": "Anupama Patewad",
+                "githubId": "Anupama-Patewad"
+            },
+            {
+                "name": "Jayesh Jaroli",
+                "githubId": "JayeshJaroli4917"
+            },
+            {
+                "name": "Shivanshu Kumar",
+                "githubId": "shivoham79"
+            }
+        ]
+    },
+    "Multi-timer": {
+        "name": "Multi Timer (With Alarm)",
+        "link": "/Multi-timer",
+        "description": "This app lets you set and save multiple timers with reminders or use a stopwatch to track time. Switch between timer and stopwatch modes, start, stop, reset, and delete timers, and record laps on the stopwatch. Get notified with a message and sound when a timer ends.",
+        "contributors": [
+            {
+                "name": "Ishaan Bhela",
+                "githubId": "Ishaan453"
+            },
+            {
+                "name": "Chirag Dave",
+                "githubId": "chirag132002"
+            },
+            {
+                "name": "Saksham Porwal",
+                "githubId": "Sam9733"
+            },
+            {
+                "name": "Jay Trivedi",
+                "githubId": "Jayu1214"
+            },
+            {
+                "name": "Sameehan Joshi",
+                "githubId": "Sameehan25"
+            }
+        ]
+    },
+
+
     "neumorphism-generator": {
         "name": "Neumorphism Generator",
         "link": "/neumorphism-generator",
@@ -332,6 +388,33 @@
             {
                 "name": "Rifat Perween",
                 "githubId": "rifatperween"
+            }
+        ]
+    },
+    "Random word everyday": {
+        "name": "",
+        "link": "/Random word everyday",
+        "description": "",
+        "contributors": [
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
             }
         ]
     },
@@ -422,16 +505,72 @@
             }
         ]
     },
+
+    "SV-Placeholder-Generator": {
+        "name": "SVG Placeholder Generator",
+        "link": "/SV-Placeholder-Generator",
+        "description": "Generate svg images to use as a placeholder in your applications",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+
     "encryptor-decryptor": {
         "name": "Text Encryption Decryption Tool",
         "link": "/encryptor-decryptor",
         "description": "A Text Encryption Decryption Tool lets you scramble plain text into a coded message and then unscramble it back. These tools are useful for protecting sensitive information you share online.",
         "contributors": [
             {
+
                 "name": "ANKITA MISHRA",
                 "githubId": "ANKITAMISHRA29"
             },
             {
+
+                "name": "IQRA MIYAJI",
+                "githubId": "IqraMiyaji"
+            },
+            {
+                "name": "AAKANKSH MISHRA",
+                "githubId": "Aaka22"
+            },
+            {
+                "name": "HARSHALA PATIL",
+                "githubId": "Harshala15"
+            },
+            {
+                "name": "ANUJA PATIL",
+                "githubId": "anujaappasopatil"
+            }
+        ]
+    },
+    "Text-Statistics": {
+        "name": "Text Statistics",
+        "link": "/Text-Statistics",
+        "description": "The Text Statistics tool is designed to provide comprehensive analysis and insights into a given text. It helps users understand various attributes of their text by calculating and displaying the Total No. of Word count in the Text, The total number of characters in the text, The total number of sentences in the text, The total number of paragraphs in the text, The average length of words in the text, An estimate of the time it would take to read the text, The number of unique words used in the text, A table displaying the count of words based on their length (number of letters). This helps in analyzing the distribution of word lengths within the text.",
+        "contributors": [
+            {
+                "name": "Sujit Sambhaji Lendave",
+                "githubId": "Sujit747"
+            },
+            {
+                "name": "Shubham Karne",
+                "githubId": "shubhamkarne11"
+            },
+            {
+                "name": "Gyan Prakash",
+                "githubId": "gyanp28"
+            },
+            {
+                "name": "Sudhanshu Marudgan",
+                "githubId": "Sudhanshu-Marudgan"
+            },
+            {
+                "name": "Anoushka Ramankulat",
+                "githubId": "Anoushka-Ramankulath"
+
                 "name": "Sakshi",
                 "githubId": "Sakshee-24"
             },
@@ -462,6 +601,7 @@
             {
                 "name": "Aman",
                 "githubId": "Amvic7"
+
             }
         ]
     },
