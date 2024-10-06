@@ -1,0 +1,23 @@
+{
+    "name": "color-tools",
+    "description":"hey",
+    "contributors": [{
+        "name": "Sanjana Santhosh",
+        "githubId": "sanjanas27"
+    }, {
+        "name": "Pragna Thanam",
+        "githubId": "PragnaThanam30"
+    },
+    {
+        "name": "Sunkurwar Ashwini",
+        "githubId": "Sunkurwar-Ashwini"
+    },
+    {
+        "name": "Nagalaxmi Choudekar",
+        "githubId": "nagalaxmi1"
+    },
+    {
+        "name": "V Meghana",
+        "githubId": "vemulameghanareddy"
+    }]
+}
